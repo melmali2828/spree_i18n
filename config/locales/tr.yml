@@ -784,6 +784,7 @@ tr:
       product_not_deleted: "Ürün silinemedi"
       variant_deleted: Değişken silindi
       variant_not_deleted: Değişken silinemedi
+    notify_me_when_available: Stoklara gelince haber ver
     num_orders: Sipariş Sayısı
     on_hand: Elde
     open: Açık
