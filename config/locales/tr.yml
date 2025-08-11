@@ -980,8 +980,8 @@ tr:
     quantity_shipped: Kargolanan Miktar
     quick_search: Hızlı Arama
     rate: Oran
-    read_less: Göster
-    read_more: Gizle
+    read_less: Gizle
+    read_more: Göster
     reason: Sebep
     receive: alınan
     receive_stock: Gelen Stok
